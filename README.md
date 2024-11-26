@@ -24,4 +24,4 @@
 <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=etchegom&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/etchegom/gh-readme-stats) -->
 
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etchegom&theme=dark&langs_count=10&hide=shell,css,Dockerfile,Makefile,Mako,Vue&layout=donut)](https://github.com/etchegom/gh-readme-stats)
+<!-- [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etchegom&theme=dark&langs_count=10&hide=shell,css,Dockerfile,Makefile,Mako,Vue&layout=donut)](https://github.com/etchegom/gh-readme-stats) -->
