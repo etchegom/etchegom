@@ -14,10 +14,6 @@
     <a href="https://github.com/etchegom">
         <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
     </a>
-    <span>&nbsp;</span>
-    <a href="https://etchegom.github.io/">
-        <img src="https://img.icons8.com/fluent/48/000000/resume.png" width="3.5%"/>
-    </a>
 </p>
 <br>
 
